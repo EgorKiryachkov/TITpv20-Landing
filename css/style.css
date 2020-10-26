@@ -57,7 +57,7 @@ main {
     height: 85vh;
     margin: 0 auto;
     background: var(--light-color);
-    padding: 8rem 2rem 3rem 2rem;
+    padding: 4rem 2rem 3rem 2rem;
     margin-top: -5rem;
     text-align: justify;
     background-image: linear-gradient(to bottom left, var(--light-color), var(--dark-color)), url("../img/pexels-simon-migaj-747964.jpg");
